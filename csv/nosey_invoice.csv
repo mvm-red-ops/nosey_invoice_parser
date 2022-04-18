@@ -1,0 +1,16 @@
+Description,Rate,Amount,Month,Quantity
+"AdSpring Impressions Fee (CPM): Nosey inventory split on Roku","0.70","8510.00",Oct_2021,"12157.138"
+"AdSpring Impressions Fee (CPM): NoseyEscandalos to Samsung-mx","0.70","7.13",Oct_2021,"10.185"
+"AdSpring Impressions Fee (CPM): NoseyEscandalos to Samsung-br","0.70","3.26",Oct_2021,"4.66"
+"AdSpring Impressions Fee (CPM): RealNosey inventory split on Roku","0.70","5149.41",Oct_2021,"7356.301"
+"Streaming (GB) Video Producer: Nosey on Plex","0.0042","655.87",Oct_2021,"156160.3974"
+"Streaming (GB) Video Producer: Nosey on Roku","0.0042","5218.96",Oct_2021,"1242609.382"
+"Streaming (GB) Video Producer: Nosey on Samsung","0.0042","3621.98",Oct_2021,"862376.5574"
+"Streaming (GB) Video Producer: NoseyEscandalos on Samsung-br","0.0042","358.58",Oct_2021,"85376.4031"
+"Streaming (GB) Video Producer: NoseyEscandalos on Plex","0.0042","12.15",Oct_2021,"2892.7383"
+"Streaming (GB) Video Producer: NoseyEscandalos on Samsung-mx","0.0042","458.43",Oct_2021,"109149.0639"
+"Streaming (GB) Video Producer: RealNosey on Roku","0.0042","3297.65",Oct_2021,"785154.7964"
+"Streaming (GB) Video Producer: RealNosey on Plex","0.0042","135.13",Oct_2021,"32174.6789"
+"Active Connector:  Nosey on Vizio HLS","Connector.","800.00","800.00",Oct_2021
+1,"Active Connector:  NoseyEscandalos on Plex","HLS Connector.","800.00","800.00"
+Oct_2021,1,"","",""
