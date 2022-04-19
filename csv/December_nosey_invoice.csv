@@ -1,0 +1,29 @@
+Description,Rate,Amount,Month,Quantity
+"AdSpring Impressions Fee (CPM): Nosey inventory split on Roku","0.581","8871.66",Dec_2021,"15269.647"
+"AdSpring Impressions Fee (CPM): NoseyEscandalos to Samsung-mx","0.581","38.92",Dec_2021,"66.988"
+"AdSpring Impressions Fee (CPM): NoseyEscandalos to Samsung-br","0.581","5.63",Dec_2021,"9.694"
+"AdSpring Impressions Fee (CPM): NoseyEscandalos inventory split on Roku","0.581","486.16",Dec_2021,"836.767"
+"AdSpring Impressions Fee (CPM): RealNosey inventory split on Roku","0.581","7211.03",Dec_2021,"12411.411"
+"Streaming (GB) Video Producer: Nosey on Plex","0.0042","563.33",Dec_2021,"134125.0094"
+"Streaming (GB) Video Producer: Nosey on Samsung","0.0042","3396.84",Dec_2021,"808772.2206"
+"Streaming (GB) Video Producer: Nosey on Roku","0.0042","5167.06",Dec_2021,"1230251.6234"
+"Streaming (GB) Video Producer: NoseyEscandalos on Samsung-br","0.0042","445.83",Dec_2021,"106149.2709"
+"Streaming (GB) Video Producer: NoseyEscandalos on Plex","0.0042","19.73",Dec_2021,"4697.4024"
+"Streaming (GB) Video Producer: NoseyEscandalos on Samsung-mx","0.0042","394.39",Dec_2021,"93902.9203"
+"Streaming (GB) Video Producer: NoseyEscandalos on Roku","0.0042","424.90",Dec_2021,"101165.9726"
+"Streaming (GB) Video Producer: RealNosey on Roku","0.0042","4090.31",Dec_2021,"973883.4613"
+"Streaming (GB) Video Producer: RealNosey on Plex","0.0042","148.33",Dec_2021,"35316.7828"
+"Active Connector:  Nosey on Vizio HLS Connector.","800.00","800.00",Dec_2021,1
+"Active Connector:  NoseyEscandalos on Roku HLS Connector.","800.00","800.00",Dec_2021,1
+"Active Connector:  NoseyEscandalos on Samsung-br HLS Connector.","800.00","800.00",Dec_2021,1
+"Active Connector:  NoseyEscandalos on Samsung-mx HLS Connector.","800.00","800.00",Dec_2021,1
+"Active Connector:  NoseyEscandalos on Plex HLS Connector.","800.00","800.00",Dec_2021,1
+"Active Connector:  RealNosey on Vizio HLS Connector.","800.00","800.00",Dec_2021,1
+"Active Connector: Nosey on Xumo (VOD2) - XUMO (VOD2)","400.00","400.00",Dec_2021,1
+"Active Connector:  Nosey on Plex HLS Connector.","0.00","0.00",Dec_2021,0
+"Active Connector:  Nosey on Roku HLS Connector.","0.00","0.00",Dec_2021,0
+"Active Connector:  Nosey on Samsung HLS Connector.","0.00","0.00",Dec_2021,0
+"Active Connector:  RealNosey on Plex HLS Connector.","0.00","0.00",Dec_2021,0
+"Active Connector:  RealNosey on Roku HLS Connector.","0.00","0.00",Dec_2021,0
+"Package Fee (Level 2):  Monthly Fee HLS Connector.","3750.00","3750.00",Dec_2021,1
+"Page 2","","","",""
